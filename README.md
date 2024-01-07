@@ -3,7 +3,9 @@
 OSN Monsoon 2023 mini project 2
 
 
-- Instructions to test the xv6 implementations are given in the `initial_xv6/README.md` file. 
+- Instructions to test the xv6 implementations are given in the `initial_xv6/README.md` file.
+- Getreadcounts(): The system call returns the value of a counter which is incremented every time any process calls the read() system call.
+- Sigalarm & Sigreturn: It is a feature to xv6 that periodically alerts a process as it uses CPU time.
 
 
 ## Implementation of various scheduled algorithm that have been implemented in xv6
